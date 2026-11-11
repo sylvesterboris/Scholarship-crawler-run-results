@@ -1,5 +1,9 @@
 # Scholarship Intelligence Crawler
 
+- **Live dashboard:** https://scholarship-crawler-run-results-haocmajfixrjfmi6wxp4rz.streamlit.app/
+- **Demo video:** https://drive.google.com/file/d/1zP_B_zZg8WzJB_p9WDAOJfOyzmruJL2u/view?usp=sharing
+- **Technical note:** [docs/TECHNICAL_NOTE.md](docs/TECHNICAL_NOTE.md)
+
 A working crawler that keeps a repository of **authentic scholarship opportunities for Indian students** up to date:
 
 ```
