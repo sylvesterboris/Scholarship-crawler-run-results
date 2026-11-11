@@ -168,7 +168,8 @@ with tab_list:
         for fld, grp in evd.groupby("field", sort=False):
             g0 = grp.iloc[0]
             st.markdown(f"**{fld}** → `{str(g0['value'])[:160]}`  ·  <small>{g0['method']} · snapshot #{g0['snapshot_id']} · "
-                        f"{g0['fetched_at']}</small>", unsafe_allow_html=True)
+                        f"{g0['fetched_at']} · source: <a href=\"{g0['source_url']}\" target=\"_blank\">{html.escape(str(g0['source_url'])[:90])}</a></small>",
+                        unsafe_allow_html=True)
             for _, e in grp.iterrows():
                 st.markdown(f'<div class="quote">{html.escape(str(e["evidence_text"])[:900])}</div>', unsafe_allow_html=True)
         with st.expander("Open the stored snapshot of the official page (evidence highlighted)"):
