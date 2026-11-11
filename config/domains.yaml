@@ -1,0 +1,171 @@
+# Source-classification rules. These are *rules about domains*, not lists of scholarships.
+
+government_suffixes:          # -> Government (Central/State decided by state markers below)
+  - gov.in
+  - nic.in
+  - gov
+  - mil.in
+government_hosts:             # Indian bodies that sit outside gov.in
+  - aicte-india.org
+  - ugc.gov.in
+  - ugc.ac.in
+  - nta.ac.in
+  - icssr.org
+  - csirhrdg.res.in
+  - dst.gov.in
+  - ksb.gov.in
+
+official_catalogs:            # Government-run catalogues of other bodies' schemes -> SECONDARY_OFFICIAL
+  - myscheme.gov.in
+  - india.gov.in
+  - vidyalakshmi.co.in
+
+university_suffixes:
+  - ac.in
+  - edu.in
+  - res.in
+  - edu
+  - ac.uk
+  - edu.au
+
+foreign_government_suffixes:  # -> International
+  - gov.uk
+  - gc.ca
+  - gov.au
+  - govt.nz
+  - europa.eu
+  - state.gov
+
+international_hosts:
+  - usief.org.in
+  - chevening.org
+  - daad.in
+  - daad.de
+  - inlaksfoundation.org
+  - rhodeshouse.ox.ac.uk
+  - campusfrance.org
+  - studyinjapan.go.jp
+  - cscuk.fcdo.gov.uk
+
+state_markers:                # host fragments that indicate a State Government site
+  - maharashtra
+  - mahadbt
+  - karnataka
+  - kerala
+  - tn.gov
+  - tamilnadu
+  - up.gov
+  - upsdc
+  - wb.gov
+  - wbhed
+  - bihar
+  - rajasthan
+  - gujarat
+  - punjab
+  - haryana
+  - odisha
+  - telangana
+  - ap.gov
+  - apsche
+  - assam
+  - uk.gov
+  - uttarakhand
+  - mp.gov
+  - mpsc
+  - delhi
+  - jharkhand
+  - chhattisgarh
+  - goa
+  - hp.gov
+  - himachal
+  - jk.gov
+  - nagaland
+  - meghalaya
+  - manipur
+  - mizoram
+  - tripura
+  - sikkim
+  - arunachal
+  - ladakh
+
+aggregators:                  # discovery only — never authoritative
+  - buddy4study.com
+  - indiascholarships.in
+  - scholarlify.com
+  - careers360.com
+  - collegedunia.com
+  - collegedekho.com
+  - shiksha.com
+  - testbook.com
+  - leverageedu.com
+  - fueler.io
+  - admitkard.com
+  - embibe.com
+  - internshala.com
+  - noticebard.com
+  - kashmirstudentalerts.com
+  - fundsforngos.org
+  - wemakescholars.com
+  - theglobalscholarship.org
+  - scholarships.net.in
+  - scholarshipsx.com
+  - publicservicesmap.in
+  - schemes-directory.pages.dev
+  - aimindia.in
+  - excelsiorscholarships.com
+  - corpready.in
+  - propelld.com
+  - housing.com
+  - jagranjosh.com
+  - indiatoday.in
+  - timesofindia.indiatimes.com
+  - indiatimes.com
+  - ndtv.com
+  - hindustantimes.com
+  - thehindu.com
+  - indianexpress.com
+  - dtnext.in
+  - tribuneindia.com
+  - telanganatoday.com
+  - onmanorama.com
+  - morungexpress.com
+  - dinamalar.com
+  - kashmirlife.net
+  - theweek.in
+  - latestlaws.com
+  - saathee.com
+  - uniindia.com
+  - navbharatlive.com
+  - thecsrjournal.in
+  - collegesimplified.in
+  - scribd.com
+  - wikipedia.org
+  - youtube.com
+  - facebook.com
+  - instagram.com
+  - linkedin.com
+  - twitter.com
+  - x.com
+  - t.me
+  - telegram.me
+  - medium.com
+  - blogspot.com
+  - wordpress.com
+  - quora.com
+  - reddit.com
+  - sarkariresult.com
+  - freejobalert.com
+  - scholarshipform.in
+  - vikaspedia.in
+  - netlify.app
+  - pages.dev
+
+# Hosts that are application *platforms* (an application URL there is fine if the
+# official provider page links to it, but the page itself is never a primary source).
+application_platforms:
+  - buddy4study.com
+  - vidyasaarathi.co.in
+  - scholarships.gov.in
+  - b4s.in
+  - forms.gle
+  - docs.google.com

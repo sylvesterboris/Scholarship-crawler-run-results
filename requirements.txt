@@ -1,0 +1,13 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pdfplumber>=0.11
+PyYAML>=6.0
+tldextract>=5.1
+pandas>=2.1
+streamlit>=1.40
+truststore>=0.9 ; python_version >= "3.10"
+pytest>=8.0
+# optional:
+# playwright>=1.45      # render JavaScript-only pages (then: python -m playwright install chromium)
+# Ollama (https://ollama.com) running locally with `ollama pull qwen2.5:7b-instruct` enables the quote-verified LLM gap filler

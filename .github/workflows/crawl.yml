@@ -1,0 +1,24 @@
+# Daily auto-crawl on GitHub Actions (free for public repos).
+# Note: some .gov.in sites block non-Indian IP ranges; if many seeds fail from the runner,
+# use `python run_crawler.py --every 24` on a machine in India instead (or cron).
+name: daily-crawl
+on:
+  schedule: [{cron: "30 1 * * *"}]   # 07:00 IST
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: python run_crawler.py --max-pages 400
+      - run: python scripts/export_records.py
+      - run: |
+          git config user.name "crawler-bot"
+          git config user.email "crawler-bot@users.noreply.github.com"
+          git add data/scholarships.db sample_data
+          git commit -m "crawl: $(date -u +%F)" || echo "no changes"
+          git push

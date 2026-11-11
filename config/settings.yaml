@@ -1,0 +1,97 @@
+# Scholarship Intelligence Crawler — configuration
+# Seeds are *entry points* (hub pages), not a list of scholarships. Every scholarship
+# record is found by following links / sitemaps / search results from here.
+
+database: data/scholarships.db
+
+crawl:
+  max_pages_per_run: 550        # total fetch budget per run (re-verification + discovery)
+  max_pages_per_domain: 30
+  max_depth: 3                  # link hops from a seed
+  request_timeout: 25
+  delay_per_domain_sec: 1.2     # politeness
+  user_agent: "Mozilla/5.0 (compatible; AtlasScholarshipCrawler/1.0; research prototype; respects robots.txt)"
+  respect_robots_txt: true
+  max_pdf_pages: 25
+  max_pdf_bytes: 12000000
+  use_playwright_for_js_pages: auto   # auto = only if playwright is installed and the HTML is a JS shell
+
+discovery:
+  use_sitemaps: true
+  use_search: true                    # DuckDuckGo HTML endpoint (free, no key). Skipped automatically if blocked.
+  max_search_results_per_query: 10
+  search_queries:
+    - "scholarship scheme for students site:gov.in 2026-27"
+    - "post matric scholarship state government site:gov.in"
+    - "merit cum means scholarship site:ac.in 2026"
+    - "foundation scholarship India undergraduate 2026-27 apply"
+    - "CSR scholarship programme India girl students 2026"
+    - "fellowship for Indian citizens study abroad 2026"
+    - "scholarship for students with disabilities India site:gov.in"
+    - "AICTE scholarship scheme 2026-27"
+
+# Scoring / status thresholds
+verification:
+  verified_threshold: 95.0
+  expiring_soon_days: 30
+  unreachable_runs_before_stale: 2
+  current_academic_year_start_month: 6   # Indian AY starts ~June/July
+
+llm:
+  enabled: auto            # auto = use local Ollama if it is running, else rule-based only
+  ollama_url: "http://localhost:11434"
+  model: "qwen2.5:7b-instruct"
+
+seeds:
+  # ---- Central government / regulators ----
+  - {url: "https://scholarships.gov.in/", hint: "Central Government"}
+  - {url: "https://www.aicte-india.org/schemes/students-development-schemes", hint: "Central Government"}
+  - {url: "https://www.education.gov.in/scholarships", hint: "Central Government"}
+  - {url: "https://www.ugc.gov.in/Home/student_Corner", hint: "Central Government"}
+  - {url: "https://socialjustice.gov.in/schemes", hint: "Central Government"}
+  - {url: "https://tribal.nic.in/", hint: "Central Government"}
+  - {url: "https://www.minorityaffairs.gov.in/", hint: "Central Government"}
+  - {url: "https://online-inspire.gov.in/", hint: "Central Government"}
+  - {url: "https://ksb.gov.in/", hint: "Central Government"}
+  - {url: "https://www.myscheme.gov.in/search/category/Education%20&%20Learning", hint: "Central Government"}
+  # ---- State government portals ----
+  - {url: "https://mahadbt.maharashtra.gov.in/", hint: "State Government"}
+  - {url: "https://scholarship.up.gov.in/", hint: "State Government"}
+  - {url: "https://svmcm.wbhed.gov.in/", hint: "State Government"}
+  - {url: "https://www.dcescholarship.kerala.gov.in/", hint: "State Government"}
+  - {url: "https://minoritywelfare.uk.gov.in/pages/display/6-programme-schemes", hint: "State Government"}
+  - {url: "https://ssp.postmatric.karnataka.gov.in/", hint: "State Government"}
+  - {url: "https://pmsonline.bih.nic.in/", hint: "State Government"}
+  - {url: "https://scholarships.punjab.gov.in/", hint: "State Government"}
+  # ---- Universities ----
+  - {url: "https://uohyd.ac.in/scholarships-fellowships/", hint: "University"}
+  - {url: "https://maths.du.ac.in/scholarships-fellowships-internships/", hint: "University"}
+  - {url: "https://www.iitb.ac.in/", hint: "University"}
+  - {url: "https://www.ugc.gov.in/Fellowship/stu_Fellowship3", hint: "Central Government"}
+  - {url: "https://pmrf.in/", hint: "Central Government"}
+  - {url: "https://www.jnu.ac.in/", hint: "University"}
+  # ---- Corporate CSR / foundations / trusts ----
+  - {url: "https://www.reliancefoundation.org/", hint: "Corporate CSR"}
+  - {url: "https://www.kotakeducationfoundation.org/kotak-kanya-scholarship", hint: "Corporate CSR"}
+  - {url: "https://www.kotakeducationfoundation.org/what-we-do/scholarship", hint: "Corporate CSR"}
+  - {url: "https://scholarships.reliancefoundation.org/", hint: "Corporate CSR"}
+  - {url: "https://www.reliancefoundation.org/what-we-do/education/reliance-foundation-scholarships", hint: "Corporate CSR"}
+  - {url: "https://www.vidyadhan.org/apply", hint: "NGO/Trust"}
+  - {url: "https://licindia.in/", hint: "Corporate CSR"}
+  - {url: "https://www.nsfoundation.co.in/", hint: "NGO/Trust"}
+  - {url: "https://www.sitaramjindalfoundation.org/", hint: "NGO/Trust"}
+  - {url: "https://www.vidyadhan.org/", hint: "NGO/Trust"}
+  - {url: "https://www.ffe.org/", hint: "NGO/Trust"}
+  - {url: "https://www.jntataendowment.org/", hint: "NGO/Trust"}
+  - {url: "https://www.kcmet.org/", hint: "NGO/Trust"}
+  - {url: "https://www.santoorscholarships.com/", hint: "Corporate CSR"}
+  - {url: "https://www.ongcscholar.org/", hint: "Corporate CSR"}
+  # ---- International ----
+  - {url: "https://www.usief.org.in/", hint: "International"}
+  - {url: "https://www.chevening.org/scholarship/india/", hint: "International"}
+  - {url: "https://www.inlaksfoundation.org/scholarships/", hint: "International"}
+  - {url: "https://www.daad.in/en/find-funding/", hint: "International"}
+  - {url: "https://cscuk.fcdo.gov.uk/scholarships/", hint: "International"}
+  - {url: "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/", hint: "International"}
+  # ---- Aggregators: used ONLY to discover official links, never as a source of data ----
+  - {url: "https://www.buddy4study.com/scholarships", hint: "Aggregator"}
