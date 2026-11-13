@@ -37,7 +37,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -85,8 +85,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -305,7 +305,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -353,8 +353,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -581,7 +581,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -629,8 +629,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -886,7 +886,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -934,8 +934,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -1215,7 +1215,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -1263,8 +1263,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -1567,7 +1567,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -1615,8 +1615,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -1853,8 +1853,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:17+00:00",
-    "last_verified": "2026-11-12T09:19:17+00:00",
+    "last_seen": "2026-11-13T09:09:17+00:00",
+    "last_verified": "2026-11-13T09:09:17+00:00",
     "last_changed": "2026-11-11T22:00:34+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 120,
@@ -2277,7 +2277,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -2325,8 +2325,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -2515,7 +2515,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -2563,8 +2563,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -2837,7 +2837,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -2885,8 +2885,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -3135,7 +3135,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -3183,8 +3183,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -3359,7 +3359,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -3407,8 +3407,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -3746,8 +3746,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:18+00:00",
-    "last_verified": "2026-11-12T09:19:18+00:00",
+    "last_seen": "2026-11-13T09:09:19+00:00",
+    "last_verified": "2026-11-13T09:09:19+00:00",
     "last_changed": "2026-11-11T22:00:35+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 123,
@@ -3956,7 +3956,7 @@
     "academic_year": "2026-27",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-15 (3 days left)",
+    "status_reason": "Closes on 2026-11-15 (2 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -4004,11 +4004,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:38+00:00",
-    "last_seen": "2026-11-12T09:19:21+00:00",
-    "last_verified": "2026-11-12T09:19:21+00:00",
+    "last_seen": "2026-11-13T09:09:22+00:00",
+    "last_verified": "2026-11-13T09:09:22+00:00",
     "last_changed": "2026-11-11T22:00:38+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 144,
+    "current_snapshot_id": 630,
     "discovered_via": "seed",
     "evidence": [
       {
@@ -4016,7 +4016,7 @@
         "value": "Vidyadhan Mathura Scholarship for Women in STEM – UP",
         "evidence_text": "## Vidyadhan Mathura Scholarship for Women in STEM – UP ( अधिक जानकारी के लिए यहाँ क्लिक करें ) Click here for details",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:heading"
       },
       {
@@ -4024,7 +4024,7 @@
         "value": "Shibulal Family",
         "evidence_text": "The Shrimati Sadhana Khaitan Vidyadhan Scholarship for Women in STEM supports talented young women from low-income families in Mathura District who aspire to build careers in Science, Technology, Engineering, and Healthcare. Instituted in the loving memory of Smt. Sadhana Khaitan by her family, this scholarship is a philanthropic initiative by the Shibulal Family under Vidyadhan , a 25-year-old pan-India higher education program currently supporting over 14,000 students across the country. Beyond financial assistance, scholars will also receive training and mentoring support to help them thrive in their chosen fields.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:provider-org-mention"
       },
       {
@@ -4032,7 +4032,7 @@
         "value": "Selected students will receive a scholarship of ₹15,000 to ₹75,000 per year, depending on the course till the completion of the course, subject to satisfactory academic performance.",
         "evidence_text": "Selected students will receive a scholarship of ₹15,000 to ₹75,000 per year, depending on the course till the completion of the course, subject to satisfactory academic performance.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:benefit"
       },
       {
@@ -4040,7 +4040,7 @@
         "value": "The Shrimati Sadhana Khaitan Vidyadhan Scholarship for Women in STEM supports talented young women from low-income families in Mathura District who aspire to build careers in Science, Technology, Engineering, and Healthcare. Instituted in the loving memory of Smt. Sadhana Khaitan by her family, this scholarship is a philanthropic initiative by the Shibulal Family under Vidyadhan , a 25-year-old pan-India higher education program currently supporting over 14,000 students across the country. Beyond financial assistance, scholars will also receive training and mentoring support to help them thrive in their chosen fields. Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there. The annual family income must be less than ₹3 Lakhs.",
         "evidence_text": "The Shrimati Sadhana Khaitan Vidyadhan Scholarship for Women in STEM supports talented young women from low-income families in Mathura District who aspire to build careers in Science, Technology, Engineering, and Healthcare. Instituted in the loving memory of Smt. Sadhana Khaitan by her family, this scholarship is a philanthropic initiative by the Shibulal Family under Vidyadhan , a 25-year-old pan-India higher education program currently supporting over 14,000 students across the country. Beyond financial assistance, scholars will also receive training and mentoring support to help them thrive in their chosen fields.\nFemale students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.\nThe annual family income must be less than ₹3 Lakhs.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:section"
       },
       {
@@ -4048,7 +4048,7 @@
         "value": "The annual family income must be less than ₹3 Lakhs.",
         "evidence_text": "The annual family income must be less than ₹3 Lakhs.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:income"
       },
       {
@@ -4056,7 +4056,7 @@
         "value": "Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.",
         "evidence_text": "Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:disability"
       },
       {
@@ -4064,7 +4064,7 @@
         "value": "Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.",
         "evidence_text": "Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:course"
       },
       {
@@ -4072,7 +4072,7 @@
         "value": "Undergraduate",
         "evidence_text": "Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:level-keywords"
       },
       {
@@ -4080,7 +4080,7 @@
         "value": "Female students only",
         "evidence_text": "## Vidyadhan Mathura Scholarship for Women in STEM – UP ( अधिक जानकारी के लिए यहाँ क्लिक करें ) Click here for details",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:gender(name)"
       },
       {
@@ -4088,7 +4088,7 @@
         "value": "2026-11-15",
         "evidence_text": "- 15th November 2026: Application last date",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:date-label"
       },
       {
@@ -4096,7 +4096,7 @@
         "value": "2026-27",
         "evidence_text": "Female students from Mathura District, Uttar Pradesh, pursuing STEM courses such as MBBS, Engineering, BSc, or other STEM programs are eligible to apply. Applicants must have secured a minimum of 70% marks in Class 12 (60% for students with disabilities), have gained admission to the first year of a degree or professional program in the Academic Year 2026–27, and have either completed Class XII from a school in Mathura District or be currently studying at an institution located there.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:academic-year"
       },
       {
@@ -4104,7 +4104,7 @@
         "value": "Scanned copies of the following are required; 12th Marksheet; Income Certificate (from a competent authority; ration card not accepted.); Photograph; 10th Marksheet (If original marksheet is not available , you can upload provisional /online marksheet from the SSLC/CBSE/ICSC website.)",
         "evidence_text": "- Scanned copies of the following are required",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:list-section"
       },
       {
@@ -4112,7 +4112,7 @@
         "value": "Scanned copies of the following are required; 12th Marksheet; Income Certificate (from a competent authority; ration card not accepted.); Photograph; 10th Marksheet (If original marksheet is not available , you can upload provisional /online marksheet from the SSLC/CBSE/ICSC website.)",
         "evidence_text": "- 12th Marksheet",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:list-section"
       },
       {
@@ -4120,7 +4120,7 @@
         "value": "Scanned copies of the following are required; 12th Marksheet; Income Certificate (from a competent authority; ration card not accepted.); Photograph; 10th Marksheet (If original marksheet is not available , you can upload provisional /online marksheet from the SSLC/CBSE/ICSC website.)",
         "evidence_text": "- Income Certificate (from a competent authority; ration card not accepted.)",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:list-section"
       },
       {
@@ -4128,7 +4128,7 @@
         "value": "Scanned copies of the following are required; 12th Marksheet; Income Certificate (from a competent authority; ration card not accepted.); Photograph; 10th Marksheet (If original marksheet is not available , you can upload provisional /online marksheet from the SSLC/CBSE/ICSC website.)",
         "evidence_text": "- Photograph",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:list-section"
       },
       {
@@ -4136,7 +4136,7 @@
         "value": "Scanned copies of the following are required; 12th Marksheet; Income Certificate (from a competent authority; ration card not accepted.); Photograph; 10th Marksheet (If original marksheet is not available , you can upload provisional /online marksheet from the SSLC/CBSE/ICSC website.)",
         "evidence_text": "- 10th Marksheet (If original marksheet is not available , you can upload provisional /online marksheet from the SSLC/CBSE/ICSC website.)",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:list-section"
       },
       {
@@ -4144,7 +4144,7 @@
         "value": "Eligible applicants will undergo a selection process, including a test and interview, before final selection for the scholarship.",
         "evidence_text": "Eligible applicants will undergo a selection process, including a test and interview, before final selection for the scholarship.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:section"
       },
       {
@@ -4152,7 +4152,7 @@
         "value": "Online",
         "evidence_text": "- You need to have a personal Email Account to apply online. DO NOT USE THE EMAIL ID of cyber café/DTP centre since all future communications will be sent to the registered email id. If you do not have an email ID, please create a new account in www.gmail.com or with any other email service providers. Please memorize the email login and password for future use.",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:application-mode"
       },
       {
@@ -4160,7 +4160,7 @@
         "value": "https://www.vidyadhan.org/register/student",
         "evidence_text": "link text \"Apply Now\" -> https://www.vidyadhan.org/register/student",
         "source_url": "https://www.vidyadhan.org/apply",
-        "snapshot_id": 144,
+        "snapshot_id": 630,
         "method": "rule:link-anchor"
       }
     ],
@@ -4215,8 +4215,8 @@
     "renewal_requirements": "First-year postgraduate students from institutes across India pursuing degree programmes in Artificial Intelligence, Computer Sciences, Mathematics and Computing, Electrical and/or Electronics Engineering, Mechanical Engineering, Chemical Engineering, Renewable and New Energy, Material Science & Engineering and Life Sciences are eligible to apply. / Reliance Foundation invites first year postgraduate students who are enrolled full-time in an eligible degree programme (in Computer Science, Artificial Intelligence, Mathematics & Computing, Electrical and/or Electronics Engg., Chemical Engg., Mechanical Engg., Renewable & New Energy, Material Science & Engg. and Life Sciences) to apply.",
     "academic_year": "2026-27",
     "status_statement": "Applications for the 2026-27 scholarships are now closed.",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 4: ",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 97.0,
     "score_breakdown": [
@@ -4266,8 +4266,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 411,
     "discovered_via": "link",
     "evidence": [
@@ -4409,6 +4409,28 @@
         "source_url": "https://scholarships.reliancefoundation.org/PG_Scholarship",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://scholarships.reliancefoundation.org/PG_Scholarship",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs ()"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://scholarships.reliancefoundation.org/PG_Scholarship",
+        "new_value": null,
+        "source_url": "https://scholarships.reliancefoundation.org/PG_Scholarship",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -4450,8 +4472,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "2026-27",
     "status_statement": "Applications for the 2026-27 scholarships are now closed.",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 4: ",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 97.0,
     "score_breakdown": [
@@ -4501,8 +4523,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 408,
     "discovered_via": "link",
     "evidence": [
@@ -4652,6 +4674,28 @@
         "source_url": "https://scholarships.reliancefoundation.org/UG_Scholarship",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://scholarships.reliancefoundation.org/UG_Scholarship",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs ()"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://scholarships.reliancefoundation.org/UG_Scholarship",
+        "new_value": null,
+        "source_url": "https://scholarships.reliancefoundation.org/UG_Scholarship",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -4692,7 +4736,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -4740,8 +4784,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -4903,7 +4947,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-15 (3 days left)",
+    "status_reason": "Closes on 2026-11-15 (2 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -4951,8 +4995,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -5113,7 +5157,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -5161,8 +5205,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -5356,7 +5400,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -5404,8 +5448,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -5615,8 +5659,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:21+00:00",
-    "last_verified": "2026-11-12T09:19:21+00:00",
+    "last_seen": "2026-11-13T09:09:22+00:00",
+    "last_verified": "2026-11-13T09:09:22+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 211,
@@ -5764,8 +5808,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "2024-25",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Could not re-verify in run 4: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 93.0,
     "score_breakdown": [
@@ -5815,8 +5859,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 553,
     "discovered_via": "link",
     "evidence": [
@@ -5955,6 +5999,28 @@
         "source_url": "https://pdf.aicte.gov.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRING_SOON",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://pdf.aicte.gov.in/",
+        "new_value": null,
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -5995,7 +6061,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6043,8 +6109,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -6150,7 +6216,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6198,8 +6264,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -6306,7 +6372,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6354,8 +6420,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -6590,8 +6656,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -6785,7 +6851,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRED",
-    "status_reason": "Closing date 2026-09-23 has passed",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6835,8 +6901,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-11T22:00:43+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 497,
     "discovered_via": "link",
     "evidence": [
@@ -6956,6 +7022,17 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
         "old_evidence": null,
         "new_evidence": "## Study Scholarships - Postgraduate Studies in the Field of Architecture • DAAD"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -6996,7 +7073,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRED",
-    "status_reason": "Closing date 2026-09-24 has passed",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -7046,8 +7123,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-11T22:00:43+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 498,
     "discovered_via": "link",
     "evidence": [
@@ -7167,6 +7244,17 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
         "old_evidence": null,
         "new_evidence": "## Study Scholarships - Postgraduate Studies in the Field of Music • DAAD"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7207,7 +7295,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRED",
-    "status_reason": "Closing date 2026-10-15 has passed",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -7257,8 +7345,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-11T22:00:43+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 499,
     "discovered_via": "link",
     "evidence": [
@@ -7378,6 +7466,17 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
         "old_evidence": null,
         "new_evidence": "## Study Scholarships - Postgraduate Studies in the Field of the Performing Arts • DAAD"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7418,7 +7517,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRED",
-    "status_reason": "Closing date 2026-10-15 has passed",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -7468,8 +7567,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-11T22:00:43+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 502,
     "discovered_via": "link",
     "evidence": [
@@ -7597,6 +7696,17 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
         "old_evidence": null,
         "new_evidence": "## Study Scholarships - Postgraduate Studies in the Fields of Fine Art, Design, Visual Communication and Film • DAAD"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7638,8 +7748,8 @@
     "renewal_requirements": "Fellowship will be discontinued if there's no progress within 3 months or if the quarterly progress report is unsatisfactory.",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "REVIEW_REQUIRED",
-    "status_reason": "Could not re-verify in run 4: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 86.0,
     "score_breakdown": [
@@ -7689,8 +7799,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-11T22:16:53+00:00",
     "last_verified": "2026-11-11T22:16:53+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 517,
     "discovered_via": "link",
     "evidence": [
@@ -7805,6 +7915,28 @@
         "source_url": "https://yukti.mic.gov.in/aicte-fellowship",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "REVIEW_REQUIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://yukti.mic.gov.in/aicte-fellowship",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://yukti.mic.gov.in/aicte-fellowship",
+        "new_value": null,
+        "source_url": "https://yukti.mic.gov.in/aicte-fellowship",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7894,8 +8026,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 376,
@@ -8130,8 +8262,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 383,
@@ -8369,8 +8501,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 380,
@@ -8603,8 +8735,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 394,
@@ -8927,8 +9059,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 384,
@@ -9146,8 +9278,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 374,
@@ -9393,8 +9525,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 388,
@@ -9733,8 +9865,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 389,
@@ -10065,8 +10197,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 386,
@@ -10406,8 +10538,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 390,
@@ -10764,8 +10896,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 387,
@@ -11003,8 +11135,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 378,
@@ -11238,8 +11370,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 396,
@@ -11486,8 +11618,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "2025-26",
     "status_statement": "Portal is open for Students.",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 4: ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 85.0,
     "score_breakdown": [
@@ -11537,8 +11669,8 @@
     "first_seen": "2026-11-11T22:00:37+00:00",
     "last_seen": "2026-11-11T22:16:47+00:00",
     "last_verified": "2026-11-11T22:16:47+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 137,
     "discovered_via": "seed",
     "evidence": [
@@ -11645,6 +11777,28 @@
         "source_url": "https://scholarships.punjab.gov.in/",
         "old_evidence": null,
         "new_evidence": "ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://scholarships.punjab.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar)"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://scholarships.punjab.gov.in/",
+        "new_value": null,
+        "source_url": "https://scholarships.punjab.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar"
       }
     ]
   },
@@ -11692,8 +11846,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "2020-21",
     "status_statement": "Applications for the Fellowships/Scholarships/Awards are invited from registered and eligible students every year through Chairpersons of Centres/Deans of Schools and are awarded on the recommendations of the Committees constituted for the purpose. Details can be avail from Room No.020 (Ground Floor",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 4: ",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 85.0,
     "score_breakdown": [
@@ -11743,8 +11897,8 @@
     "first_seen": "2026-11-11T22:00:40+00:00",
     "last_seen": "2026-11-11T22:16:50+00:00",
     "last_verified": "2026-11-11T22:16:50+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 398,
     "discovered_via": "link",
     "evidence": [
@@ -11923,6 +12077,28 @@
         "source_url": "https://www.jnu.ac.in/content/fellowshipsscholarships",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www.jnu.ac.in/content/fellowshipsscholarships",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs ()"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.jnu.ac.in/content/fellowshipsscholarships",
+        "new_value": null,
+        "source_url": "https://www.jnu.ac.in/content/fellowshipsscholarships",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -11963,7 +12139,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "ACTIVE",
-    "status_reason": "Open until 2027-10-01",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 84.0,
     "score_breakdown": [
@@ -12013,8 +12189,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-11T22:00:43+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 500,
     "discovered_via": "link",
     "evidence": [
@@ -12126,6 +12302,17 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
         "old_evidence": null,
         "new_evidence": "## Study Scholarships - Master Studies for All Academic Disciplines • DAAD"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -12214,8 +12401,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -12369,8 +12556,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -12525,11 +12712,11 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:16+00:00",
-    "last_verified": "2026-11-12T09:19:16+00:00",
+    "last_seen": "2026-11-13T09:09:16+00:00",
+    "last_verified": "2026-11-13T09:09:16+00:00",
     "last_changed": "2026-11-11T22:00:34+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 119,
+    "current_snapshot_id": 629,
     "discovered_via": "seed",
     "evidence": [
       {
@@ -12537,7 +12724,7 @@
         "value": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
         "evidence_text": "## Savitribai Jyotirao Phule Fellowship For Single Girl Child",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:heading"
       },
       {
@@ -12545,7 +12732,7 @@
         "value": "University Grants Commission",
         "evidence_text": "University Grants Commission (UGC)",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:provider-org-mention"
       },
       {
@@ -12553,7 +12740,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "@Rs. 37,000/-pm for 2 years",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:benefit"
       },
       {
@@ -12561,7 +12748,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "@Rs. 42,000/- pm for remaining period",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:benefit"
       },
       {
@@ -12569,7 +12756,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "Rs. 10,000/- pa for initial two years",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:benefit"
       },
       {
@@ -12577,7 +12764,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "Rs. 20,500/- pa for remaining tenure.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:benefit"
       },
       {
@@ -12585,7 +12772,7 @@
         "value": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "evidence_text": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:section"
       },
       {
@@ -12593,7 +12780,7 @@
         "value": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "evidence_text": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:course"
       },
       {
@@ -12601,7 +12788,7 @@
         "value": "Doctoral/Research",
         "evidence_text": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:level-keywords"
       },
       {
@@ -12609,7 +12796,7 @@
         "value": "Female students only",
         "evidence_text": "## Savitribai Jyotirao Phule Fellowship For Single Girl Child",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:gender(name)"
       },
       {
@@ -12617,7 +12804,7 @@
         "value": "Online",
         "evidence_text": "The number of slots for fellowship will be decided every year on the basis of eligible applications complete in all respects, received through online mode.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 119,
+        "snapshot_id": 629,
         "method": "rule:application-mode"
       }
     ],
@@ -12692,7 +12879,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 82.0,
     "score_breakdown": [
@@ -12740,8 +12927,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -12969,8 +13156,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 377,
@@ -13189,8 +13376,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 385,
@@ -13429,8 +13616,8 @@
       }
     ],
     "first_seen": "2026-11-12T09:19:26+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 606,
@@ -13691,8 +13878,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 395,
@@ -13950,8 +14137,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 379,
@@ -14153,8 +14340,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 381,
@@ -14373,8 +14560,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:17+00:00",
-    "last_verified": "2026-11-12T09:19:17+00:00",
+    "last_seen": "2026-11-13T09:09:18+00:00",
+    "last_verified": "2026-11-13T09:09:18+00:00",
     "last_changed": "2026-11-11T21:21:17+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 122,
@@ -14538,8 +14725,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:19+00:00",
-    "last_verified": "2026-11-12T09:19:19+00:00",
+    "last_seen": "2026-11-13T09:09:20+00:00",
+    "last_verified": "2026-11-13T09:09:20+00:00",
     "last_changed": "2026-11-11T22:00:36+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 125,
@@ -14742,7 +14929,7 @@
     "academic_year": "Not specified",
     "status_statement": "The application portal is open.",
     "lifecycle_status": "EXPIRED",
-    "status_reason": "Closing date 2024-10-21 has passed",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -14792,8 +14979,8 @@
     "first_seen": "2026-11-11T22:00:40+00:00",
     "last_seen": "2026-11-12T09:19:21+00:00",
     "last_verified": "2026-11-12T09:19:21+00:00",
-    "last_changed": "2026-11-11T22:00:40+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 271,
     "discovered_via": "sitemap",
     "evidence": [
@@ -14865,6 +15052,17 @@
         "source_url": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
         "old_evidence": null,
         "new_evidence": "# Bi-nationally Supervised Doctoral Degree Scholarship"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
+        "new_value": null,
+        "source_url": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -14901,7 +15099,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -14949,8 +15147,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -15131,8 +15329,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 373,
@@ -15398,8 +15596,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 371,
@@ -15629,7 +15827,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -15677,8 +15875,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -15764,7 +15962,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (18 days left)",
+    "status_reason": "Closes on 2026-11-30 (17 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -15812,8 +16010,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 535,
@@ -15903,7 +16101,7 @@
     "academic_year": "2023-24",
     "status_statement": "Advertisement: Applications are invited for Post Graduate (GATE/ GPAT) Scholarship",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 3 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro)",
+    "status_reason": "Official source unreachable for 4 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 75.0,
     "score_breakdown": [
@@ -15953,8 +16151,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T21:21:17+00:00",
     "last_verified": "2025-10-01",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 3,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 4,
     "current_snapshot_id": 71,
     "discovered_via": "link",
     "evidence": [
@@ -16086,6 +16284,17 @@
         "source_url": "https://aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme",
         "old_evidence": null,
         "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme",
+        "new_value": null,
+        "source_url": "https://aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme",
+        "old_evidence": null,
+        "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro"
       }
     ]
   },
@@ -16175,8 +16384,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:17+00:00",
-    "last_verified": "2026-11-12T09:19:17+00:00",
+    "last_seen": "2026-11-13T09:09:17+00:00",
+    "last_verified": "2026-11-13T09:09:17+00:00",
     "last_changed": "2026-11-11T22:00:34+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 210,
@@ -16314,8 +16523,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "2019-20",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 4: ",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 74.0,
     "score_breakdown": [
@@ -16365,8 +16574,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:51+00:00",
     "last_verified": "2026-11-11T22:16:51+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 405,
     "discovered_via": "link",
     "evidence": [
@@ -16489,6 +16698,28 @@
         "source_url": "https://www.jnu.ac.in/content/fox-intl-fellowship",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www.jnu.ac.in/content/fox-intl-fellowship",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs ()"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.jnu.ac.in/content/fox-intl-fellowship",
+        "new_value": null,
+        "source_url": "https://www.jnu.ac.in/content/fox-intl-fellowship",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -16577,8 +16808,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:19+00:00",
-    "last_verified": "2026-11-12T09:19:19+00:00",
+    "last_seen": "2026-11-13T09:09:20+00:00",
+    "last_verified": "2026-11-13T09:09:20+00:00",
     "last_changed": "2026-11-11T22:00:36+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 124,
@@ -16748,8 +16979,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 375,
@@ -16995,8 +17226,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 392,
@@ -17149,8 +17380,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "REVIEW_REQUIRED",
-    "status_reason": "Could not re-verify in run 4: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 73.0,
     "score_breakdown": [
@@ -17200,8 +17431,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 553,
     "discovered_via": "link",
     "evidence": [
@@ -17269,6 +17500,28 @@
       {
         "detected_at": "2026-11-12T09:19:26+00:00",
         "run_id": 4,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://pdf.aicte.gov.in/",
+        "new_value": null,
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "REVIEW_REQUIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
         "change_type": "SOURCE_UNREACHABLE",
         "field": "official_source_url",
         "old_value": "https://pdf.aicte.gov.in/",
@@ -17365,8 +17618,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:21+00:00",
-    "last_verified": "2026-11-12T09:19:21+00:00",
+    "last_seen": "2026-11-13T09:09:22+00:00",
+    "last_verified": "2026-11-13T09:09:22+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 300,
@@ -17832,8 +18085,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:38+00:00",
-    "last_seen": "2026-11-12T09:19:21+00:00",
-    "last_verified": "2026-11-12T09:19:21+00:00",
+    "last_seen": "2026-11-13T09:09:22+00:00",
+    "last_verified": "2026-11-13T09:09:22+00:00",
     "last_changed": "2026-11-11T22:00:38+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 204,
@@ -18293,8 +18546,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-12T09:19:19+00:00",
-    "last_verified": "2026-11-12T09:19:19+00:00",
+    "last_seen": "2026-11-13T09:09:20+00:00",
+    "last_verified": "2026-11-13T09:09:20+00:00",
     "last_changed": "2026-11-11T22:00:37+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 126,
@@ -18503,8 +18756,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 552,
@@ -18813,8 +19066,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 372,
@@ -19053,8 +19306,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:23+00:00",
-    "last_verified": "2026-11-12T09:19:23+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 399,
@@ -19264,8 +19517,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "REVIEW_REQUIRED",
-    "status_reason": "Could not re-verify in run 4: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19315,8 +19568,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 553,
     "discovered_via": "link",
     "evidence": [
@@ -19375,6 +19628,28 @@
         "source_url": "https://pdf.aicte.gov.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "REVIEW_REQUIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://pdf.aicte.gov.in/",
+        "new_value": null,
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -19415,7 +19690,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 3 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection)",
+    "status_reason": "Official source unreachable for 4 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19465,8 +19740,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T21:21:17+00:00",
     "last_verified": "2025-10-01",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 3,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 4,
     "current_snapshot_id": 2,
     "discovered_via": "seed",
     "evidence": [
@@ -19598,6 +19873,17 @@
         "source_url": "https://aicte-india.org/schemes/students-development-schemes",
         "old_evidence": null,
         "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://aicte-india.org/schemes/students-development-schemes",
+        "new_value": null,
+        "source_url": "https://aicte-india.org/schemes/students-development-schemes",
+        "old_evidence": null,
+        "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection"
       }
     ]
   },
@@ -19636,7 +19922,7 @@
     "academic_year": "Not specified",
     "status_statement": "The access to the DAAD portal opens at least 6 weeks before the application deadline.",
     "lifecycle_status": "ACTIVE",
-    "status_reason": "Source states: \"The access to the DAAD portal opens at least 6 weeks before the application deadline.\" (no closing date published)",
+    "status_reason": "Could not re-verify in run 5: HTTP 403",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19686,8 +19972,8 @@
     "first_seen": "2026-11-11T22:00:40+00:00",
     "last_seen": "2026-11-12T09:19:21+00:00",
     "last_verified": "2026-11-12T09:19:21+00:00",
-    "last_changed": "2026-11-11T22:00:40+00:00",
-    "consecutive_failures": 0,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 1,
     "current_snapshot_id": 563,
     "discovered_via": "link",
     "evidence": [
@@ -19799,6 +20085,17 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
         "old_evidence": null,
         "new_evidence": "Re-invitation Programme for Former Scholarship Holders"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -19839,8 +20136,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "2019-20",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 4: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19890,8 +20187,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T22:16:44+00:00",
     "last_verified": "2026-11-11T22:16:44+00:00",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 481,
     "discovered_via": "seed",
     "evidence": [
@@ -20041,6 +20338,28 @@
       {
         "detected_at": "2026-11-12T09:19:26+00:00",
         "run_id": 4,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.aicte.gov.in/opportunities/students/overview",
+        "new_value": null,
+        "source_url": "https://www.aicte.gov.in/opportunities/students/overview",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www.aicte.gov.in/opportunities/students/overview",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
         "change_type": "SOURCE_UNREACHABLE",
         "field": "official_source_url",
         "old_value": "https://www.aicte.gov.in/opportunities/students/overview",
@@ -20477,8 +20796,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:21+00:00",
-    "last_verified": "2026-11-12T09:19:21+00:00",
+    "last_seen": "2026-11-13T09:09:22+00:00",
+    "last_verified": "2026-11-13T09:09:22+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 213,
@@ -20648,8 +20967,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-12T09:19:21+00:00",
-    "last_verified": "2026-11-12T09:19:21+00:00",
+    "last_seen": "2026-11-13T09:09:22+00:00",
+    "last_verified": "2026-11-13T09:09:22+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 334,
@@ -20755,7 +21074,7 @@
     "academic_year": "2018-19",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 3 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 4 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 59.0,
     "score_breakdown": [
@@ -20805,8 +21124,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T21:21:17+00:00",
     "last_verified": "2025-10-01",
-    "last_changed": "2026-11-12T09:19:26+00:00",
-    "consecutive_failures": 3,
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 4,
     "current_snapshot_id": 21,
     "discovered_via": "seed",
     "evidence": [
@@ -20914,6 +21233,17 @@
         "source_url": "https://www.pmrf.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.pmrf.in/",
+        "new_value": null,
+        "source_url": "https://www.pmrf.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -21002,11 +21332,11 @@
       }
     ],
     "first_seen": "2026-11-12T09:19:26+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 603,
+    "current_snapshot_id": 633,
     "discovered_via": "link",
     "evidence": [
       {
@@ -21014,7 +21344,7 @@
         "value": "Fellowship Components",
         "evidence_text": "Fellowship Components",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/fellowship-components/",
-        "snapshot_id": 603,
+        "snapshot_id": 633,
         "method": "page-meta:title"
       },
       {
@@ -21022,7 +21352,7 @@
         "value": "The Humphrey Seminar is a required course where Humphrey Fellows develop their individual program goals and plan. It focuses on broad programmatic objectives, including an increased understanding of U.S. society and culture, professional networking, and leadership development.",
         "evidence_text": "The Humphrey Seminar is a required course where Humphrey Fellows develop their individual program goals and plan. It focuses on broad programmatic objectives, including an increased understanding of U.S. society and culture, professional networking, and leadership development.",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/fellowship-components/",
-        "snapshot_id": 603,
+        "snapshot_id": 633,
         "method": "rule:course"
       },
       {
@@ -21030,7 +21360,7 @@
         "value": "Diploma/ITI/Polytechnic",
         "evidence_text": "Humphrey Fellows are placed in cohorts at one of 7 Humphrey host universities based on the host university’s impact areas and the Fellows’ professional expertise. Humphrey Fellows partake in an educational experience where they learn from renowned faculty without the expectation of meeting specific degree or diploma requirements. This makes it possible for them to travel and network with American counterparts in their field of work, attend conferences, and engage in professional affiliation.",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/fellowship-components/",
-        "snapshot_id": 603,
+        "snapshot_id": 633,
         "method": "rule:level-keywords"
       },
       {
@@ -21038,7 +21368,7 @@
         "value": "2021-22",
         "evidence_text": "2021-2022 Humphrey Fellows meet at the annual Global Leadership Forum, a key component of the Humphrey Fellowship program.",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/fellowship-components/",
-        "snapshot_id": 603,
+        "snapshot_id": 633,
         "method": "rule:academic-year"
       }
     ],
@@ -21053,6 +21383,133 @@
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/fellowship-components/",
         "old_evidence": null,
         "new_evidence": "Fellowship Components"
+      }
+    ]
+  },
+  {
+    "id": "f9e1f6d90ffcdd71",
+    "name": "The Humphrey Fellowship Program",
+    "name_key": "humphrey fellowship",
+    "provider": "U.S. Department of State with funding provided by the U",
+    "provider_domain": "humphreyfellowship.org",
+    "source_type": "Central Government",
+    "official_source_url": "https://www.humphreyfellowship.org/program-overview/",
+    "application_url": null,
+    "benefit": "Not specified",
+    "amount_inr_max": null,
+    "education_level": "Not specified",
+    "course": "Not specified",
+    "academic_requirement": "Not specified",
+    "income_criteria": "Not specified",
+    "income_limit_inr": null,
+    "age_criteria": "Not specified",
+    "gender_criteria": "Not specified",
+    "category_criteria": "Not specified",
+    "domicile_criteria": "Hubert H. Humphrey’s exemplary leadership, tireless devotion to public service, and sincere hope for greater understanding among nations inspired the Humphrey Fellowship Program. In 1964, he was elected Vice President of the United States under President Lyndon Johnson and returned to the Senate in 1971, serving until his death in 1978.",
+    "institution_criteria": "Not specified",
+    "disability_criteria": "Not specified",
+    "eligibility_text": "Not specified",
+    "eligibility_rules": {},
+    "opening_date": null,
+    "closing_date": null,
+    "application_mode": "Not specified",
+    "documents_required": "Not specified",
+    "selection_process": "Not specified",
+    "renewal_requirements": "Not specified",
+    "academic_year": "Not specified",
+    "status_statement": "Not specified",
+    "lifecycle_status": "REVIEW_REQUIRED",
+    "status_reason": "No closing date or open/closed statement on the official source",
+    "verification_status": "REVIEW_REQUIRED",
+    "confidence": 58.0,
+    "score_breakdown": [
+      {
+        "check": "Official source",
+        "points": 25.0,
+        "max": 25,
+        "detail": "Source classified as PRIMARY_OFFICIAL"
+      },
+      {
+        "check": "Currently present on source",
+        "points": 15.0,
+        "max": 15,
+        "detail": "Fetched live (HTTP 2xx); 2/2 name tokens found on page"
+      },
+      {
+        "check": "Official application URL",
+        "points": 0.0,
+        "max": 10,
+        "detail": "No application link or procedure found"
+      },
+      {
+        "check": "Critical fields backed by evidence",
+        "points": 6.0,
+        "max": 30,
+        "detail": "Missing: benefit, eligibility, education_level, deadline_or_status"
+      },
+      {
+        "check": "Information is current",
+        "points": 2.0,
+        "max": 10,
+        "detail": "no academic year or recent application dates; verified in this run"
+      },
+      {
+        "check": "Consistent extraction & no conflicts",
+        "points": 10.0,
+        "max": 10,
+        "detail": "Section-scoped and whole-page extraction agree; no conflicting official sources"
+      },
+      {
+        "check": "Verification gates",
+        "points": 0,
+        "max": 0,
+        "detail": "confidence 58.0% < 95.0%"
+      }
+    ],
+    "first_seen": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_changed": "2026-11-13T09:09:25+00:00",
+    "consecutive_failures": 0,
+    "current_snapshot_id": 644,
+    "discovered_via": "link",
+    "evidence": [
+      {
+        "field": "name",
+        "value": "The Humphrey Fellowship Program",
+        "evidence_text": "The Humphrey Fellowship Program , a Fulbright Exchange, cultivates relationships between government officials in targeted countries and the United States, creating a global network of U.S.-trained leaders who cooperate with the United States in areas such as combatting illicit drug trafficking, economic and trade partnerships, emerging technologies, law, and space governance.",
+        "source_url": "https://www.humphreyfellowship.org/program-overview/",
+        "snapshot_id": 644,
+        "method": "rule:title-expanded"
+      },
+      {
+        "field": "provider",
+        "value": "U.S. Department of State with funding provided by the U",
+        "evidence_text": "The Humphrey Fellowship Program is a Fulbright exchange activity sponsored by the U.S. Department of State with funding provided by the U.S. Government and administered by the Institute of International Education.",
+        "source_url": "https://www.humphreyfellowship.org/program-overview/",
+        "snapshot_id": 644,
+        "method": "rule:provider-explicit"
+      },
+      {
+        "field": "domicile_criteria",
+        "value": "Hubert H. Humphrey’s exemplary leadership, tireless devotion to public service, and sincere hope for greater understanding among nations inspired the Humphrey Fellowship Program. In 1964, he was elected Vice President of the United States under President Lyndon Johnson and returned to the Senate in 1971, serving until his death in 1978.",
+        "evidence_text": "Hubert H. Humphrey’s exemplary leadership, tireless devotion to public service, and sincere hope for greater understanding among nations inspired the Humphrey Fellowship Program. In 1964, he was elected Vice President of the United States under President Lyndon Johnson and returned to the Senate in 1971, serving until his death in 1978.",
+        "source_url": "https://www.humphreyfellowship.org/program-overview/",
+        "snapshot_id": 644,
+        "method": "rule:domicile"
+      }
+    ],
+    "change_history": [
+      {
+        "detected_at": "2026-11-13T09:09:25+00:00",
+        "run_id": 5,
+        "change_type": "NEW",
+        "field": null,
+        "old_value": null,
+        "new_value": "The Humphrey Fellowship Program",
+        "source_url": "https://www.humphreyfellowship.org/program-overview/",
+        "old_evidence": null,
+        "new_evidence": "The Humphrey Fellowship Program , a Fulbright Exchange, cultivates relationships between government officials in targeted countries and the United States, creating a global network of U.S.-trained leaders who cooperate with the United States in areas such as combatting illicit drug trafficking, economic and trade partnerships, emerging technologies, law, and space governance."
       }
     ]
   },
@@ -21137,11 +21594,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:41+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:24+00:00",
+    "last_verified": "2026-11-13T09:09:24+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 608,
+    "current_snapshot_id": 631,
     "discovered_via": "link",
     "evidence": [
       {
@@ -21149,7 +21606,7 @@
         "value": "The Hubert H. Humphrey Fellowship Program",
         "evidence_text": "The Hubert H. Humphrey Fellowship Program",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/",
-        "snapshot_id": 608,
+        "snapshot_id": 631,
         "method": "page-meta:title"
       },
       {
@@ -21157,7 +21614,7 @@
         "value": "This ten-month Fellowship program is offered to mid-career professionals with a proven track record of leadership, a public service commitment, and the capacity to take full advantage of a self-defined program of independent non-degree study at a leading U.S. university.",
         "evidence_text": "This ten-month Fellowship program is offered to mid-career professionals with a proven track record of leadership, a public service commitment, and the capacity to take full advantage of a self-defined program of independent non-degree study at a leading U.S. university.",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/",
-        "snapshot_id": 608,
+        "snapshot_id": 631,
         "method": "rule:section"
       },
       {
@@ -21165,7 +21622,7 @@
         "value": "2022-23",
         "evidence_text": "2022-2023 Humphrey Fellows present their research at the annual Hubert H. Humphrey Pre-Academic Program Forum. The presentations are the culmination of the eight-week program of intensive English language and professional training that prepares fellows for their year-long Humphrey Fellowship.",
         "source_url": "https://www.humphreyfellowship.org/how-to-apply/",
-        "snapshot_id": 608,
+        "snapshot_id": 631,
         "method": "rule:academic-year"
       }
     ],
@@ -21319,11 +21776,11 @@
       }
     ],
     "first_seen": "2026-11-12T09:19:26+00:00",
-    "last_seen": "2026-11-12T09:19:26+00:00",
-    "last_verified": "2026-11-12T09:19:26+00:00",
+    "last_seen": "2026-11-13T09:09:25+00:00",
+    "last_verified": "2026-11-13T09:09:25+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 576,
+    "current_snapshot_id": 632,
     "discovered_via": "link",
     "evidence": [
       {
@@ -21331,7 +21788,7 @@
         "value": "Distinguished Humphrey Fellowship Program",
         "evidence_text": "Distinguished Humphrey Fellowship Program",
         "source_url": "https://www.humphreyfellowship.org/our-network/other-partners/distinguished-humphrey-fellowship-program/",
-        "snapshot_id": 576,
+        "snapshot_id": 632,
         "method": "page-meta:title"
       }
     ],
