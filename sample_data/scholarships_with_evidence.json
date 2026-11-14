@@ -37,7 +37,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -69,7 +69,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -85,11 +85,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -97,7 +97,7 @@
         "value": "AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Diploma) (Merit Based Scheme)",
         "evidence_text": "## AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Diploma) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -105,7 +105,7 @@
         "value": "AICTE",
         "evidence_text": "## AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Diploma) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:provider-acronym"
       },
       {
@@ -113,7 +113,7 @@
         "value": "Diploma/ITI/Polytechnic",
         "evidence_text": "## AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Diploma) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -121,7 +121,7 @@
         "value": "Female students only",
         "evidence_text": "## AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Diploma) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:gender(name)"
       },
       {
@@ -129,7 +129,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -137,7 +137,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -145,7 +145,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -305,7 +305,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -337,7 +337,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -353,11 +353,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -365,7 +365,7 @@
         "value": "AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Diploma) (Welfare Based Scheme)",
         "evidence_text": "## AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Diploma) (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -373,7 +373,7 @@
         "value": "AICTE",
         "evidence_text": "## AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Diploma) (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:provider-acronym"
       },
       {
@@ -381,7 +381,7 @@
         "value": "Diploma/ITI/Polytechnic",
         "evidence_text": "## AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Diploma) (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -389,7 +389,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -397,7 +397,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -405,7 +405,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -581,7 +581,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -613,7 +613,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -629,11 +629,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -641,7 +641,7 @@
         "value": "AICTE - Swanath Scholarship Scheme (Technical Diploma) (Welfare Based Scheme)",
         "evidence_text": "## AICTE - Swanath Scholarship Scheme (Technical Diploma) (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -649,7 +649,7 @@
         "value": "AICTE",
         "evidence_text": "## AICTE - Swanath Scholarship Scheme (Technical Diploma) (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:provider-acronym"
       },
       {
@@ -657,7 +657,7 @@
         "value": "Diploma/ITI/Polytechnic",
         "evidence_text": "## AICTE - Swanath Scholarship Scheme (Technical Diploma) (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -665,7 +665,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -673,7 +673,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -681,7 +681,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -886,7 +886,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -918,7 +918,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -934,11 +934,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -946,7 +946,7 @@
         "value": "Central Sector Scholarship Of Top Class Education For SC Students (Merit Based Scheme)",
         "evidence_text": "## Central Sector Scholarship Of Top Class Education For SC Students (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -954,7 +954,7 @@
         "value": "SC",
         "evidence_text": "## Central Sector Scholarship Of Top Class Education For SC Students (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:category"
       },
       {
@@ -962,7 +962,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -970,7 +970,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -978,7 +978,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -1215,7 +1215,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -1247,7 +1247,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-07-15); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-07-15); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -1263,11 +1263,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -1275,7 +1275,7 @@
         "value": "Financial Support To The Students Of NER For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
         "evidence_text": "## Financial Support To The Students Of NER For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -1283,7 +1283,7 @@
         "value": "Financial Support To The Students Of NER For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
         "evidence_text": "## Financial Support To The Students Of NER For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:course"
       },
       {
@@ -1291,7 +1291,7 @@
         "value": "Undergraduate",
         "evidence_text": "## Financial Support To The Students Of NER For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -1299,7 +1299,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till (for Renewal): 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -1307,7 +1307,7 @@
         "value": "2026-07-15",
         "evidence_text": "Scheme Open from (for Renewal): 15-07-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -1315,7 +1315,7 @@
         "value": "Scheme Open from (for Renewal): 15-07-2026 / Student Application Open till (for Renewal): 30-11-2026",
         "evidence_text": "Scheme Open from (for Renewal): 15-07-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:renewal"
       },
       {
@@ -1323,7 +1323,7 @@
         "value": "Scheme Open from (for Renewal): 15-07-2026 / Student Application Open till (for Renewal): 30-11-2026",
         "evidence_text": "Student Application Open till (for Renewal): 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:renewal"
       },
       {
@@ -1331,7 +1331,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -1567,7 +1567,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -1599,7 +1599,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-09-16); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-09-16); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -1615,11 +1615,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -1627,7 +1627,7 @@
         "value": "Ishan Uday Special Scholarship Scheme For NER (Merit Based Scheme)",
         "evidence_text": "## Ishan Uday Special Scholarship Scheme For NER (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -1635,7 +1635,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -1643,7 +1643,7 @@
         "value": "2026-09-16",
         "evidence_text": "Scheme Open from : 16-09-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -1651,7 +1651,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -1853,8 +1853,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:17+00:00",
-    "last_verified": "2026-11-13T09:09:17+00:00",
+    "last_seen": "2026-11-14T08:31:02+00:00",
+    "last_verified": "2026-11-14T08:31:02+00:00",
     "last_changed": "2026-11-11T22:00:34+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 120,
@@ -2277,7 +2277,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -2309,7 +2309,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-09-16); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-09-16); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -2325,11 +2325,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -2337,7 +2337,7 @@
         "value": "National Scholarship For Post Graduate Studies (Merit Based Scheme)",
         "evidence_text": "## National Scholarship For Post Graduate Studies (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -2345,7 +2345,7 @@
         "value": "Postgraduate",
         "evidence_text": "## National Scholarship For Post Graduate Studies (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -2353,7 +2353,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -2361,7 +2361,7 @@
         "value": "2026-09-16",
         "evidence_text": "Scheme Open from : 16-09-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -2369,7 +2369,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -2515,7 +2515,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -2547,7 +2547,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-10-22); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-10-22); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -2563,11 +2563,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -2575,7 +2575,7 @@
         "value": "PM USP Special Scholarship Scheme For Jammu Kashmir And Ladakh (Merit Based Scheme)",
         "evidence_text": "## PM USP Special Scholarship Scheme For Jammu Kashmir And Ladakh (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -2583,7 +2583,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -2591,7 +2591,7 @@
         "value": "2026-10-22",
         "evidence_text": "Scheme Open from : 22-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -2599,7 +2599,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -2837,7 +2837,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -2869,7 +2869,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -2885,11 +2885,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -2897,7 +2897,7 @@
         "value": "PM YASASVI Central Sector Scheme Of Top Class Education In College For OBC, EBC And DNT Students (Merit Based Scheme)",
         "evidence_text": "## PM YASASVI Central Sector Scheme Of Top Class Education In College For OBC, EBC And DNT Students (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -2905,7 +2905,7 @@
         "value": "OBC, EBC, DNT",
         "evidence_text": "## PM YASASVI Central Sector Scheme Of Top Class Education In College For OBC, EBC And DNT Students (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:category"
       },
       {
@@ -2913,7 +2913,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -2921,7 +2921,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -2929,7 +2929,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -3135,7 +3135,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -3167,7 +3167,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-10-22); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-10-22); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -3183,11 +3183,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -3195,7 +3195,7 @@
         "value": "PM YASASVI Central Sector Scheme Of Top Class Education In Schools For OBC, EBC And DNT Students (Merit Based Scheme)",
         "evidence_text": "## PM YASASVI Central Sector Scheme Of Top Class Education In Schools For OBC, EBC And DNT Students (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -3203,7 +3203,7 @@
         "value": "OBC, EBC, DNT",
         "evidence_text": "## PM YASASVI Central Sector Scheme Of Top Class Education In Schools For OBC, EBC And DNT Students (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:category"
       },
       {
@@ -3211,7 +3211,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -3219,7 +3219,7 @@
         "value": "2026-10-22",
         "evidence_text": "Scheme Open from : 22-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -3227,7 +3227,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -3350,16 +3350,16 @@
       ],
       "disability_mentioned": true
     },
-    "opening_date": "2026-06-01",
+    "opening_date": null,
     "closing_date": "2026-11-30",
     "application_mode": "Online",
     "documents_required": "Not specified",
     "selection_process": "Not specified",
-    "renewal_requirements": "Scheme Open from (for Renewal): 01-06-2026 / Student Application Open till (for Renewal): 30-11-2026",
+    "renewal_requirements": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance of at least 75%, will also be the criteria. Complaints against the student regarding any in disciplined or criminal behaviour including any complaints of having indulged in ragging, will lead to forfeiture of scholarship; ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -3391,7 +3391,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -3407,11 +3407,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
-    "last_changed": "2026-11-11T22:16:53+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
+    "last_changed": "2026-11-14T08:31:12+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -3419,47 +3419,23 @@
         "value": "PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS) (Merit Based Scheme)",
         "evidence_text": "## PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
         "field": "closing_date",
         "value": "2026-11-30",
-        "evidence_text": "Student Application Open till (for Renewal): 30-11-2026",
+        "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
-      },
-      {
-        "field": "opening_date",
-        "value": "2026-06-01",
-        "evidence_text": "Scheme Open from (for Renewal): 01-06-2026",
-        "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
-        "method": "rule:date-label"
-      },
-      {
-        "field": "renewal_requirements",
-        "value": "Scheme Open from (for Renewal): 01-06-2026 / Student Application Open till (for Renewal): 30-11-2026",
-        "evidence_text": "Scheme Open from (for Renewal): 01-06-2026",
-        "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
-        "method": "rule:renewal"
-      },
-      {
-        "field": "renewal_requirements",
-        "value": "Scheme Open from (for Renewal): 01-06-2026 / Student Application Open till (for Renewal): 30-11-2026",
-        "evidence_text": "Student Application Open till (for Renewal): 30-11-2026",
-        "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
-        "method": "rule:renewal"
       },
       {
         "field": "application_url",
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -3583,6 +3559,46 @@
         "method": "rule:level-keywords"
       },
       {
+        "field": "renewal_requirements",
+        "value": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance of at least 75%, will also be the criteria. Complaints against the student regarding any in disciplined or criminal behaviour including any complaints of having indulged in ragging, will lead to forfeiture of scholarship; ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
+        "evidence_text": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the",
+        "source_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "snapshot_id": 557,
+        "method": "rule:section"
+      },
+      {
+        "field": "renewal_requirements",
+        "value": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance of at least 75%, will also be the criteria. Complaints against the student regarding any in disciplined or criminal behaviour including any complaints of having indulged in ragging, will lead to forfeiture of scholarship; ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
+        "evidence_text": "Annual Examination, maintenance of adequate attendance of at least 75%, will also be the",
+        "source_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "snapshot_id": 557,
+        "method": "rule:section"
+      },
+      {
+        "field": "renewal_requirements",
+        "value": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance of at least 75%, will also be the criteria. Complaints against the student regarding any in disciplined or criminal behaviour including any complaints of having indulged in ragging, will lead to forfeiture of scholarship; ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
+        "evidence_text": "criteria. Complaints against the student regarding any in disciplined or criminal behaviour",
+        "source_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "snapshot_id": 557,
+        "method": "rule:section"
+      },
+      {
+        "field": "renewal_requirements",
+        "value": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance of at least 75%, will also be the criteria. Complaints against the student regarding any in disciplined or criminal behaviour including any complaints of having indulged in ragging, will lead to forfeiture of scholarship; ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
+        "evidence_text": "including any complaints of having indulged in ragging, will lead to forfeiture of scholarship;",
+        "source_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "snapshot_id": 557,
+        "method": "rule:section"
+      },
+      {
+        "field": "renewal_requirements",
+        "value": "viii. For renewal of scholarship in each year of study, besides getting at least 50% marks in the Annual Examination, maintenance of adequate attendance of at least 75%, will also be the criteria. Complaints against the student regarding any in disciplined or criminal behaviour including any complaints of having indulged in ragging, will lead to forfeiture of scholarship; ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
+        "evidence_text": "ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
+        "source_url": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
+        "snapshot_id": 557,
+        "method": "rule:section"
+      },
+      {
         "field": "application_mode",
         "value": "Online",
         "evidence_text": "ix. Beneficiaries/ Applicants under the scheme must apply online in the National Scholarships Portal",
@@ -3656,6 +3672,17 @@
         "new_value": "VERIFIED",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
         "old_evidence": null,
+        "new_evidence": null
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "FIELD_REMOVED",
+        "field": "opening_date",
+        "old_value": "2026-06-01",
+        "new_value": null,
+        "source_url": "https://scholarships.gov.in/All-Scholarships",
+        "old_evidence": "Scheme Open from (for Renewal): 01-06-2026",
         "new_evidence": null
       }
     ]
@@ -3746,8 +3773,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:19+00:00",
-    "last_verified": "2026-11-13T09:09:19+00:00",
+    "last_seen": "2026-11-14T08:31:05+00:00",
+    "last_verified": "2026-11-14T08:31:05+00:00",
     "last_changed": "2026-11-11T22:00:35+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 123,
@@ -3956,7 +3983,7 @@
     "academic_year": "2026-27",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-15 (2 days left)",
+    "status_reason": "Closes on 2026-11-15 (1 days left)",
     "verification_status": "VERIFIED",
     "confidence": 100.0,
     "score_breakdown": [
@@ -4004,8 +4031,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:38+00:00",
-    "last_seen": "2026-11-13T09:09:22+00:00",
-    "last_verified": "2026-11-13T09:09:22+00:00",
+    "last_seen": "2026-11-14T08:31:08+00:00",
+    "last_verified": "2026-11-14T08:31:08+00:00",
     "last_changed": "2026-11-11T22:00:38+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 630,
@@ -4216,7 +4243,7 @@
     "academic_year": "2026-27",
     "status_statement": "Applications for the 2026-27 scholarships are now closed.",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs ()",
+    "status_reason": "Official source unreachable for 3 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 97.0,
     "score_breakdown": [
@@ -4266,8 +4293,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 411,
     "discovered_via": "link",
     "evidence": [
@@ -4431,6 +4458,17 @@
         "source_url": "https://scholarships.reliancefoundation.org/PG_Scholarship",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://scholarships.reliancefoundation.org/PG_Scholarship",
+        "new_value": null,
+        "source_url": "https://scholarships.reliancefoundation.org/PG_Scholarship",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -4473,7 +4511,7 @@
     "academic_year": "2026-27",
     "status_statement": "Applications for the 2026-27 scholarships are now closed.",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs ()",
+    "status_reason": "Official source unreachable for 3 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 97.0,
     "score_breakdown": [
@@ -4523,8 +4561,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 408,
     "discovered_via": "link",
     "evidence": [
@@ -4696,6 +4734,17 @@
         "source_url": "https://scholarships.reliancefoundation.org/UG_Scholarship",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://scholarships.reliancefoundation.org/UG_Scholarship",
+        "new_value": null,
+        "source_url": "https://scholarships.reliancefoundation.org/UG_Scholarship",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -4736,7 +4785,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -4768,7 +4817,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -4784,11 +4833,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -4796,7 +4845,7 @@
         "value": "Icar National Talent Scholarship(Nts-Ug) (Merit Based Scheme)",
         "evidence_text": "## Icar National Talent Scholarship(Nts-Ug) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -4804,7 +4853,7 @@
         "value": "Undergraduate",
         "evidence_text": "## Icar National Talent Scholarship(Nts-Ug) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -4812,7 +4861,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -4820,7 +4869,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -4828,7 +4877,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -4947,7 +4996,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-15 (2 days left)",
+    "status_reason": "Closes on 2026-11-15 (1 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -4979,7 +5028,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-15, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-15, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -4995,11 +5044,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -5007,7 +5056,7 @@
         "value": "National Means Cum Merit Scholarship (Merit Based Scheme)",
         "evidence_text": "## National Means Cum Merit Scholarship (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -5015,7 +5064,7 @@
         "value": "2026-11-15",
         "evidence_text": "Student Application Open till : 15-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -5023,7 +5072,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -5031,7 +5080,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -5157,7 +5206,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -5189,7 +5238,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -5205,11 +5254,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:16:53+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -5217,7 +5266,7 @@
         "value": "Prime Minister'S Scholarship Scheme For Ministry Of Railways (Merit Based Scheme)",
         "evidence_text": "## Prime Minister'S Scholarship Scheme For Ministry Of Railways (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -5225,7 +5274,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -5233,7 +5282,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -5241,7 +5290,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -5400,7 +5449,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 94.0,
     "score_breakdown": [
@@ -5432,7 +5481,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -5448,11 +5497,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -5460,7 +5509,7 @@
         "value": "Stipend Scheme For Under Graduate And Post Graduate Studies In Indian Statistical Institute-Kolkata (Merit Based Scheme)",
         "evidence_text": "## Stipend Scheme For Under Graduate And Post Graduate Studies In Indian Statistical Institute-Kolkata (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -5468,7 +5517,7 @@
         "value": "Undergraduate, Postgraduate",
         "evidence_text": "## Stipend Scheme For Under Graduate And Post Graduate Studies In Indian Statistical Institute-Kolkata (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -5476,7 +5525,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -5484,7 +5533,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -5492,7 +5541,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -5659,8 +5708,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:22+00:00",
-    "last_verified": "2026-11-13T09:09:22+00:00",
+    "last_seen": "2026-11-14T08:31:09+00:00",
+    "last_verified": "2026-11-14T08:31:09+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 211,
@@ -5809,7 +5858,7 @@
     "academic_year": "2024-25",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 3 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 93.0,
     "score_breakdown": [
@@ -5859,8 +5908,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 553,
     "discovered_via": "link",
     "evidence": [
@@ -6021,6 +6070,17 @@
         "source_url": "https://pdf.aicte.gov.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://pdf.aicte.gov.in/",
+        "new_value": null,
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -6061,7 +6121,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6093,7 +6153,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -6109,11 +6169,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -6121,7 +6181,7 @@
         "value": "Icar Junior Research Fellowships(Jrf) And Senior Research Fellowships(Srf) (Merit Based Scheme)",
         "evidence_text": "## Icar Junior Research Fellowships(Jrf) And Senior Research Fellowships(Srf) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -6129,7 +6189,7 @@
         "value": "Doctoral/Research",
         "evidence_text": "## Icar Junior Research Fellowships(Jrf) And Senior Research Fellowships(Srf) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -6137,7 +6197,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6145,7 +6205,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6153,7 +6213,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -6216,7 +6276,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6248,7 +6308,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -6264,11 +6324,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -6276,7 +6336,7 @@
         "value": "Icar Post Graduate Scholarship(Pgs) (Merit Based Scheme)",
         "evidence_text": "## Icar Post Graduate Scholarship(Pgs) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -6284,7 +6344,7 @@
         "value": "Postgraduate",
         "evidence_text": "## Icar Post Graduate Scholarship(Pgs) (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -6292,7 +6352,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6300,7 +6360,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6308,7 +6368,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -6372,7 +6432,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6404,7 +6464,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-07-25); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-07-25); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -6420,11 +6480,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -6432,7 +6492,7 @@
         "value": "Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "evidence_text": "## Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -6440,7 +6500,7 @@
         "value": "Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "evidence_text": "## Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:disability"
       },
       {
@@ -6448,7 +6508,7 @@
         "value": "Post-matric",
         "evidence_text": "## Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -6456,7 +6516,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6464,7 +6524,7 @@
         "value": "2026-07-25",
         "evidence_text": "Scheme Open from : 25-07-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6472,7 +6532,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -6640,7 +6700,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-10-31, 2026-07-25); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-10-31, 2026-07-25); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -6656,11 +6716,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -6668,7 +6728,7 @@
         "value": "Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "evidence_text": "## Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -6676,7 +6736,7 @@
         "value": "Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "evidence_text": "## Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:disability"
       },
       {
@@ -6684,7 +6744,7 @@
         "value": "Pre-matric (Class 1-10)",
         "evidence_text": "## Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -6692,7 +6752,7 @@
         "value": "2026-10-31",
         "evidence_text": "Student Application Closed on : 31-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6700,7 +6760,7 @@
         "value": "2026-07-25",
         "evidence_text": "Scheme Open from : 25-07-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -6708,7 +6768,7 @@
         "value": "Student Application Closed on : 31-10-2026",
         "evidence_text": "Student Application Closed on : 31-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:status-statement"
       },
       {
@@ -6716,7 +6776,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -6850,8 +6910,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -6901,8 +6961,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 497,
     "discovered_via": "link",
     "evidence": [
@@ -7033,6 +7093,28 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7072,8 +7154,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -7123,8 +7205,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 498,
     "discovered_via": "link",
     "evidence": [
@@ -7255,6 +7337,28 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?origin=4&status=3&subjectGrps=&daad=&q=&page=3&detail=57135743",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7294,8 +7398,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -7345,8 +7449,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 499,
     "discovered_via": "link",
     "evidence": [
@@ -7477,6 +7581,28 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7516,8 +7642,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 88.0,
     "score_breakdown": [
@@ -7567,8 +7693,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 502,
     "discovered_via": "link",
     "evidence": [
@@ -7707,6 +7833,28 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&origin=4&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135742",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -7749,7 +7897,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 3 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 86.0,
     "score_breakdown": [
@@ -7799,8 +7947,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-11T22:16:53+00:00",
     "last_verified": "2026-11-11T22:16:53+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 517,
     "discovered_via": "link",
     "evidence": [
@@ -7937,6 +8085,17 @@
         "source_url": "https://yukti.mic.gov.in/aicte-fellowship",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://yukti.mic.gov.in/aicte-fellowship",
+        "new_value": null,
+        "source_url": "https://yukti.mic.gov.in/aicte-fellowship",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -8026,8 +8185,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 376,
@@ -8262,8 +8421,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 383,
@@ -8501,8 +8660,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 380,
@@ -8735,8 +8894,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 394,
@@ -9059,8 +9218,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 384,
@@ -9278,8 +9437,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 374,
@@ -9525,8 +9684,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 388,
@@ -9865,8 +10024,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 389,
@@ -10197,8 +10356,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 386,
@@ -10538,8 +10697,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 390,
@@ -10896,8 +11055,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 387,
@@ -11135,8 +11294,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 378,
@@ -11370,8 +11529,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 396,
@@ -11619,7 +11778,7 @@
     "academic_year": "2025-26",
     "status_statement": "Portal is open for Students.",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs (ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar)",
+    "status_reason": "Official source unreachable for 3 consecutive runs (ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 85.0,
     "score_breakdown": [
@@ -11669,8 +11828,8 @@
     "first_seen": "2026-11-11T22:00:37+00:00",
     "last_seen": "2026-11-11T22:16:47+00:00",
     "last_verified": "2026-11-11T22:16:47+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 137,
     "discovered_via": "seed",
     "evidence": [
@@ -11799,6 +11958,17 @@
         "source_url": "https://scholarships.punjab.gov.in/",
         "old_evidence": null,
         "new_evidence": "ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://scholarships.punjab.gov.in/",
+        "new_value": null,
+        "source_url": "https://scholarships.punjab.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "ConnectTimeout: HTTPSConnectionPool(host='scholarships.punjab.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='scholar"
       }
     ]
   },
@@ -11847,7 +12017,7 @@
     "academic_year": "2020-21",
     "status_statement": "Applications for the Fellowships/Scholarships/Awards are invited from registered and eligible students every year through Chairpersons of Centres/Deans of Schools and are awarded on the recommendations of the Committees constituted for the purpose. Details can be avail from Room No.020 (Ground Floor",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs ()",
+    "status_reason": "Official source unreachable for 3 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 85.0,
     "score_breakdown": [
@@ -11897,8 +12067,8 @@
     "first_seen": "2026-11-11T22:00:40+00:00",
     "last_seen": "2026-11-11T22:16:50+00:00",
     "last_verified": "2026-11-11T22:16:50+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 398,
     "discovered_via": "link",
     "evidence": [
@@ -12099,6 +12269,17 @@
         "source_url": "https://www.jnu.ac.in/content/fellowshipsscholarships",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.jnu.ac.in/content/fellowshipsscholarships",
+        "new_value": null,
+        "source_url": "https://www.jnu.ac.in/content/fellowshipsscholarships",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -12138,8 +12319,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "Not specified",
-    "lifecycle_status": "ACTIVE",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 84.0,
     "score_breakdown": [
@@ -12189,8 +12370,8 @@
     "first_seen": "2026-11-11T22:00:43+00:00",
     "last_seen": "2026-11-12T09:19:24+00:00",
     "last_verified": "2026-11-12T09:19:24+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 500,
     "discovered_via": "link",
     "evidence": [
@@ -12313,6 +12494,28 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "ACTIVE",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -12385,7 +12588,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-10-31, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-10-31, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -12401,11 +12604,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -12413,7 +12616,7 @@
         "value": "Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Post Matric (Welfare Based Scheme)",
         "evidence_text": "## Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Post Matric (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -12421,7 +12624,7 @@
         "value": "Post-matric",
         "evidence_text": "## Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Post Matric (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -12429,7 +12632,7 @@
         "value": "2026-10-31",
         "evidence_text": "Student Application Closed on : 31-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -12437,7 +12640,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -12445,7 +12648,7 @@
         "value": "Student Application Closed on : 31-10-2026",
         "evidence_text": "Student Application Closed on : 31-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:status-statement"
       },
       {
@@ -12453,7 +12656,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       }
     ],
@@ -12540,7 +12743,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-10-31, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-10-31, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -12556,11 +12759,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -12568,7 +12771,7 @@
         "value": "Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Pre Matric (Welfare Based Scheme)",
         "evidence_text": "## Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Pre Matric (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -12576,7 +12779,7 @@
         "value": "Pre-matric (Class 1-10)",
         "evidence_text": "## Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Pre Matric (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:level-keywords"
       },
       {
@@ -12584,7 +12787,7 @@
         "value": "2026-10-31",
         "evidence_text": "Student Application Closed on : 31-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -12592,7 +12795,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -12600,7 +12803,7 @@
         "value": "Student Application Closed on : 31-10-2026",
         "evidence_text": "Student Application Closed on : 31-10-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:status-statement"
       },
       {
@@ -12608,7 +12811,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       }
     ],
@@ -12712,11 +12915,11 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:16+00:00",
-    "last_verified": "2026-11-13T09:09:16+00:00",
+    "last_seen": "2026-11-14T08:31:01+00:00",
+    "last_verified": "2026-11-14T08:31:01+00:00",
     "last_changed": "2026-11-11T22:00:34+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 629,
+    "current_snapshot_id": 677,
     "discovered_via": "seed",
     "evidence": [
       {
@@ -12724,7 +12927,7 @@
         "value": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
         "evidence_text": "## Savitribai Jyotirao Phule Fellowship For Single Girl Child",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:heading"
       },
       {
@@ -12732,7 +12935,7 @@
         "value": "University Grants Commission",
         "evidence_text": "University Grants Commission (UGC)",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:provider-org-mention"
       },
       {
@@ -12740,7 +12943,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "@Rs. 37,000/-pm for 2 years",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:benefit"
       },
       {
@@ -12748,7 +12951,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "@Rs. 42,000/- pm for remaining period",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:benefit"
       },
       {
@@ -12756,7 +12959,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "Rs. 10,000/- pa for initial two years",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:benefit"
       },
       {
@@ -12764,7 +12967,7 @@
         "value": "@Rs. 37,000/-pm for 2 years / @Rs. 42,000/- pm for remaining period / Rs. 10,000/- pa for initial two years / Rs. 20,500/- pa for remaining tenure.",
         "evidence_text": "Rs. 20,500/- pa for remaining tenure.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:benefit"
       },
       {
@@ -12772,7 +12975,7 @@
         "value": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "evidence_text": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:section"
       },
       {
@@ -12780,7 +12983,7 @@
         "value": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "evidence_text": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:course"
       },
       {
@@ -12788,7 +12991,7 @@
         "value": "Doctoral/Research",
         "evidence_text": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:level-keywords"
       },
       {
@@ -12796,7 +12999,7 @@
         "value": "Female students only",
         "evidence_text": "## Savitribai Jyotirao Phule Fellowship For Single Girl Child",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:gender(name)"
       },
       {
@@ -12804,7 +13007,7 @@
         "value": "Online",
         "evidence_text": "The number of slots for fellowship will be decided every year on the basis of eligible applications complete in all respects, received through online mode.",
         "source_url": "https://www.ugc.gov.in/Fellowship/stu_Fellowship3",
-        "snapshot_id": 629,
+        "snapshot_id": 677,
         "method": "rule:application-mode"
       }
     ],
@@ -12879,7 +13082,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 82.0,
     "score_breakdown": [
@@ -12911,7 +13114,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -12927,11 +13130,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -12939,7 +13142,7 @@
         "value": "Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
         "evidence_text": "## Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -12947,7 +13150,7 @@
         "value": "Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
         "evidence_text": "## Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:disability"
       },
       {
@@ -12955,7 +13158,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -12963,7 +13166,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -12971,7 +13174,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       },
       {
@@ -13156,8 +13359,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 377,
@@ -13376,8 +13579,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 385,
@@ -13616,8 +13819,8 @@
       }
     ],
     "first_seen": "2026-11-12T09:19:26+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 606,
@@ -13878,8 +14081,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 395,
@@ -14137,8 +14340,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 379,
@@ -14340,8 +14543,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 381,
@@ -14560,8 +14763,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:18+00:00",
-    "last_verified": "2026-11-13T09:09:18+00:00",
+    "last_seen": "2026-11-14T08:31:04+00:00",
+    "last_verified": "2026-11-14T08:31:04+00:00",
     "last_changed": "2026-11-11T21:21:17+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 122,
@@ -14725,8 +14928,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:20+00:00",
-    "last_verified": "2026-11-13T09:09:20+00:00",
+    "last_seen": "2026-11-14T08:31:06+00:00",
+    "last_verified": "2026-11-14T08:31:06+00:00",
     "last_changed": "2026-11-11T22:00:36+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 125,
@@ -14928,8 +15131,8 @@
     "renewal_requirements": "Not specified",
     "academic_year": "Not specified",
     "status_statement": "The application portal is open.",
-    "lifecycle_status": "EXPIRED",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -14979,8 +15182,8 @@
     "first_seen": "2026-11-11T22:00:40+00:00",
     "last_seen": "2026-11-12T09:19:21+00:00",
     "last_verified": "2026-11-12T09:19:21+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 271,
     "discovered_via": "sitemap",
     "evidence": [
@@ -15063,6 +15266,28 @@
         "source_url": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "EXPIRED",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
+        "new_value": null,
+        "source_url": "https://www.daad.in/en/study-research-in-germany/studying-in-germany/phd-studies/bi-nationally-supervised-doctoral-degree-scholarship/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -15099,7 +15324,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -15131,7 +15356,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -15147,11 +15372,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -15159,7 +15384,7 @@
         "value": "National Renewable Energy Fellowship Scheme (Merit Based Scheme)",
         "evidence_text": "## National Renewable Energy Fellowship Scheme (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -15167,7 +15392,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -15175,7 +15400,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -15183,7 +15408,7 @@
         "value": "Scheme Open from : 01-06-2026 Student Application Open till : 30-11-2026 Defective Application Verification Open till:15-12-2026 Institute Verification Open till:15-12-2026 DNO/SNO/MNO Verification Open till:31-12-2026",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:section"
       },
       {
@@ -15191,7 +15416,7 @@
         "value": "Scheme Open from : 01-06-2026 Student Application Open till : 30-11-2026 Defective Application Verification Open till:15-12-2026 Institute Verification Open till:15-12-2026 DNO/SNO/MNO Verification Open till:31-12-2026",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:section"
       },
       {
@@ -15199,7 +15424,7 @@
         "value": "Scheme Open from : 01-06-2026 Student Application Open till : 30-11-2026 Defective Application Verification Open till:15-12-2026 Institute Verification Open till:15-12-2026 DNO/SNO/MNO Verification Open till:31-12-2026",
         "evidence_text": "Defective Application Verification Open till:15-12-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:section"
       },
       {
@@ -15207,7 +15432,7 @@
         "value": "Scheme Open from : 01-06-2026 Student Application Open till : 30-11-2026 Defective Application Verification Open till:15-12-2026 Institute Verification Open till:15-12-2026 DNO/SNO/MNO Verification Open till:31-12-2026",
         "evidence_text": "Institute Verification Open till:15-12-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:section"
       },
       {
@@ -15215,7 +15440,7 @@
         "value": "Scheme Open from : 01-06-2026 Student Application Open till : 30-11-2026 Defective Application Verification Open till:15-12-2026 Institute Verification Open till:15-12-2026 DNO/SNO/MNO Verification Open till:31-12-2026",
         "evidence_text": "DNO/SNO/MNO Verification Open till:31-12-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:section"
       },
       {
@@ -15223,7 +15448,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       }
     ],
@@ -15329,8 +15554,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 373,
@@ -15596,8 +15821,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 371,
@@ -15827,7 +16052,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -15859,7 +16084,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -15875,11 +16100,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -15887,7 +16112,7 @@
         "value": "Prime Minister'S Scholarship Scheme For Central Armed Police Forces And Assam Rifles (Merit Based Scheme)",
         "evidence_text": "## Prime Minister'S Scholarship Scheme For Central Armed Police Forces And Assam Rifles (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -15895,7 +16120,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -15903,7 +16128,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -15911,7 +16136,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       }
     ],
@@ -15962,7 +16187,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "EXPIRING_SOON",
-    "status_reason": "Closes on 2026-11-30 (17 days left)",
+    "status_reason": "Closes on 2026-11-30 (16 days left)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 76.0,
     "score_breakdown": [
@@ -15994,7 +16219,7 @@
         "check": "Information is current",
         "points": 10.0,
         "max": 10,
-        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 155 date(s) on page within ~13 months; verified in this run"
+        "detail": "application dates in the last/next 12 months (2026-11-30, 2026-06-01); 154 date(s) on page within ~13 months; verified in this run"
       },
       {
         "check": "Consistent extraction & no conflicts",
@@ -16010,11 +16235,11 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:43+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-11T22:00:43+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 535,
+    "current_snapshot_id": 679,
     "discovered_via": "link",
     "evidence": [
       {
@@ -16022,7 +16247,7 @@
         "value": "Prime Minister'S Scholarship Scheme For Wards Of States/UTs Police Personnel Martyred During Terror/Naxal Attacks (Merit Based Scheme)",
         "evidence_text": "## Prime Minister'S Scholarship Scheme For Wards Of States/UTs Police Personnel Martyred During Terror/Naxal Attacks (Merit Based Scheme)",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:heading"
       },
       {
@@ -16030,7 +16255,7 @@
         "value": "2026-11-30",
         "evidence_text": "Student Application Open till : 30-11-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -16038,7 +16263,7 @@
         "value": "2026-06-01",
         "evidence_text": "Scheme Open from : 01-06-2026",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:date-label"
       },
       {
@@ -16046,7 +16271,7 @@
         "value": "https://scholarships.gov.in/otrapplication/",
         "evidence_text": "link text \"Apply For One Time Registration (OTR)\" -> https://scholarships.gov.in/otrapplication/",
         "source_url": "https://scholarships.gov.in/All-Scholarships",
-        "snapshot_id": 535,
+        "snapshot_id": 679,
         "method": "rule:link-anchor"
       }
     ],
@@ -16101,7 +16326,7 @@
     "academic_year": "2023-24",
     "status_statement": "Advertisement: Applications are invited for Post Graduate (GATE/ GPAT) Scholarship",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 4 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro)",
+    "status_reason": "Official source unreachable for 5 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 75.0,
     "score_breakdown": [
@@ -16151,8 +16376,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T21:21:17+00:00",
     "last_verified": "2025-10-01",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 4,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 5,
     "current_snapshot_id": 71,
     "discovered_via": "link",
     "evidence": [
@@ -16295,6 +16520,17 @@
         "source_url": "https://aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme",
         "old_evidence": null,
         "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme",
+        "new_value": null,
+        "source_url": "https://aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme",
+        "old_evidence": null,
+        "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes/PG-Scholarship-Scheme (Caused by Pro"
       }
     ]
   },
@@ -16384,8 +16620,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:17+00:00",
-    "last_verified": "2026-11-13T09:09:17+00:00",
+    "last_seen": "2026-11-14T08:31:02+00:00",
+    "last_verified": "2026-11-14T08:31:02+00:00",
     "last_changed": "2026-11-11T22:00:34+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 210,
@@ -16524,7 +16760,7 @@
     "academic_year": "2019-20",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs ()",
+    "status_reason": "Official source unreachable for 3 consecutive runs ()",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 74.0,
     "score_breakdown": [
@@ -16574,8 +16810,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:51+00:00",
     "last_verified": "2026-11-11T22:16:51+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 405,
     "discovered_via": "link",
     "evidence": [
@@ -16720,6 +16956,17 @@
         "source_url": "https://www.jnu.ac.in/content/fox-intl-fellowship",
         "old_evidence": null,
         "new_evidence": ""
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.jnu.ac.in/content/fox-intl-fellowship",
+        "new_value": null,
+        "source_url": "https://www.jnu.ac.in/content/fox-intl-fellowship",
+        "old_evidence": null,
+        "new_evidence": ""
       }
     ]
   },
@@ -16808,8 +17055,8 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:20+00:00",
-    "last_verified": "2026-11-13T09:09:20+00:00",
+    "last_seen": "2026-11-14T08:31:06+00:00",
+    "last_verified": "2026-11-14T08:31:06+00:00",
     "last_changed": "2026-11-11T22:00:36+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 124,
@@ -16979,8 +17226,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 375,
@@ -17226,8 +17473,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 392,
@@ -17381,7 +17628,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 3 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 73.0,
     "score_breakdown": [
@@ -17431,8 +17678,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 553,
     "discovered_via": "link",
     "evidence": [
@@ -17529,6 +17776,17 @@
         "source_url": "https://pdf.aicte.gov.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://pdf.aicte.gov.in/",
+        "new_value": null,
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -17618,8 +17876,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:22+00:00",
-    "last_verified": "2026-11-13T09:09:22+00:00",
+    "last_seen": "2026-11-14T08:31:09+00:00",
+    "last_verified": "2026-11-14T08:31:09+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 300,
@@ -18085,8 +18343,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:38+00:00",
-    "last_seen": "2026-11-13T09:09:22+00:00",
-    "last_verified": "2026-11-13T09:09:22+00:00",
+    "last_seen": "2026-11-14T08:31:08+00:00",
+    "last_verified": "2026-11-14T08:31:08+00:00",
     "last_changed": "2026-11-11T22:00:38+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 204,
@@ -18546,11 +18804,11 @@
       }
     ],
     "first_seen": "2026-11-11T21:21:17+00:00",
-    "last_seen": "2026-11-13T09:09:20+00:00",
-    "last_verified": "2026-11-13T09:09:20+00:00",
+    "last_seen": "2026-11-14T08:31:07+00:00",
+    "last_verified": "2026-11-14T08:31:07+00:00",
     "last_changed": "2026-11-11T22:00:37+00:00",
     "consecutive_failures": 0,
-    "current_snapshot_id": 126,
+    "current_snapshot_id": 678,
     "discovered_via": "seed",
     "evidence": [
       {
@@ -18558,7 +18816,7 @@
         "value": "The Rhodes Scholarships for India",
         "evidence_text": "The Rhodes Scholarships for India",
         "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/",
-        "snapshot_id": 126,
+        "snapshot_id": 678,
         "method": "page-meta:title"
       },
       {
@@ -18566,7 +18824,7 @@
         "value": "Rhodes Trust",
         "evidence_text": "## A Partnership between the Rhodes Trust and the Second Century Founder, John McCall MacBain O.C.",
         "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/",
-        "snapshot_id": 126,
+        "snapshot_id": 678,
         "method": "rule:provider-org-mention"
       },
       {
@@ -18574,7 +18832,7 @@
         "value": "2026-07-23",
         "evidence_text": "Closing date: 23:59, Indian Standard Time, 23 July 2026",
         "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/",
-        "snapshot_id": 126,
+        "snapshot_id": 678,
         "method": "rule:date-label"
       },
       {
@@ -18582,7 +18840,7 @@
         "value": "2026-06-01",
         "evidence_text": "Opening date: 1 June 2026",
         "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/",
-        "snapshot_id": 126,
+        "snapshot_id": 678,
         "method": "rule:date-label"
       },
       {
@@ -18590,7 +18848,7 @@
         "value": "https://www.rhodeshouse.ox.ac.uk/scholarships/information-sessions/",
         "evidence_text": "link text \"Register for an information session\" -> https://www.rhodeshouse.ox.ac.uk/scholarships/information-sessions/",
         "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/india/",
-        "snapshot_id": 126,
+        "snapshot_id": 678,
         "method": "rule:link-anchor"
       }
     ],
@@ -18756,8 +19014,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 552,
@@ -19066,8 +19324,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:10+00:00",
+    "last_verified": "2026-11-14T08:31:10+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 372,
@@ -19306,8 +19564,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 399,
@@ -19518,7 +19776,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 3 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19568,8 +19826,8 @@
     "first_seen": "2026-11-11T22:00:41+00:00",
     "last_seen": "2026-11-11T22:16:52+00:00",
     "last_verified": "2026-11-11T22:16:52+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 553,
     "discovered_via": "link",
     "evidence": [
@@ -19650,6 +19908,17 @@
         "source_url": "https://pdf.aicte.gov.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://pdf.aicte.gov.in/",
+        "new_value": null,
+        "source_url": "https://pdf.aicte.gov.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -19690,7 +19959,7 @@
     "academic_year": "Not specified",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 4 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection)",
+    "status_reason": "Official source unreachable for 5 consecutive runs (ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19740,8 +20009,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T21:21:17+00:00",
     "last_verified": "2025-10-01",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 4,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 5,
     "current_snapshot_id": 2,
     "discovered_via": "seed",
     "evidence": [
@@ -19884,6 +20153,17 @@
         "source_url": "https://aicte-india.org/schemes/students-development-schemes",
         "old_evidence": null,
         "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://aicte-india.org/schemes/students-development-schemes",
+        "new_value": null,
+        "source_url": "https://aicte-india.org/schemes/students-development-schemes",
+        "old_evidence": null,
+        "new_evidence": "ConnectionError: HTTPSConnectionPool(host='aicte-india.org', port=443): Max retries exceeded with url: /schemes/students-development-schemes (Caused by ProtocolError('Connection"
       }
     ]
   },
@@ -19921,8 +20201,8 @@
     "renewal_requirements": "The grant is non-renewable.",
     "academic_year": "Not specified",
     "status_statement": "The access to the DAAD portal opens at least 6 weeks before the application deadline.",
-    "lifecycle_status": "ACTIVE",
-    "status_reason": "Could not re-verify in run 5: HTTP 403",
+    "lifecycle_status": "NO_LONGER_VERIFIABLE",
+    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -19972,8 +20252,8 @@
     "first_seen": "2026-11-11T22:00:40+00:00",
     "last_seen": "2026-11-12T09:19:21+00:00",
     "last_verified": "2026-11-12T09:19:21+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 1,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 2,
     "current_snapshot_id": 563,
     "discovered_via": "link",
     "evidence": [
@@ -20096,6 +20376,28 @@
         "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "STATUS_CHANGED",
+        "field": "lifecycle_status",
+        "old_value": "ACTIVE",
+        "new_value": "NO_LONGER_VERIFIABLE",
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
+        "old_evidence": null,
+        "new_evidence": "Official source unreachable for 2 consecutive runs (HTTP 403)"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
+        "new_value": null,
+        "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=50015492",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -20137,7 +20439,7 @@
     "academic_year": "2019-20",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 2 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 3 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 67.0,
     "score_breakdown": [
@@ -20187,8 +20489,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T22:16:44+00:00",
     "last_verified": "2026-11-11T22:16:44+00:00",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 2,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 3,
     "current_snapshot_id": 481,
     "discovered_via": "seed",
     "evidence": [
@@ -20360,6 +20662,17 @@
       {
         "detected_at": "2026-11-13T09:09:25+00:00",
         "run_id": 5,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.aicte.gov.in/opportunities/students/overview",
+        "new_value": null,
+        "source_url": "https://www.aicte.gov.in/opportunities/students/overview",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
         "change_type": "SOURCE_UNREACHABLE",
         "field": "official_source_url",
         "old_value": "https://www.aicte.gov.in/opportunities/students/overview",
@@ -20796,8 +21109,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:22+00:00",
-    "last_verified": "2026-11-13T09:09:22+00:00",
+    "last_seen": "2026-11-14T08:31:09+00:00",
+    "last_verified": "2026-11-14T08:31:09+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 213,
@@ -20967,8 +21280,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:40+00:00",
-    "last_seen": "2026-11-13T09:09:22+00:00",
-    "last_verified": "2026-11-13T09:09:22+00:00",
+    "last_seen": "2026-11-14T08:31:09+00:00",
+    "last_verified": "2026-11-14T08:31:09+00:00",
     "last_changed": "2026-11-11T22:00:40+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 334,
@@ -21074,7 +21387,7 @@
     "academic_year": "2018-19",
     "status_statement": "Not specified",
     "lifecycle_status": "NO_LONGER_VERIFIABLE",
-    "status_reason": "Official source unreachable for 4 consecutive runs (HTTP 403)",
+    "status_reason": "Official source unreachable for 5 consecutive runs (HTTP 403)",
     "verification_status": "REVIEW_REQUIRED",
     "confidence": 59.0,
     "score_breakdown": [
@@ -21124,8 +21437,8 @@
     "first_seen": "2026-11-11T21:21:17+00:00",
     "last_seen": "2026-11-11T21:21:17+00:00",
     "last_verified": "2025-10-01",
-    "last_changed": "2026-11-13T09:09:25+00:00",
-    "consecutive_failures": 4,
+    "last_changed": "2026-11-14T08:31:12+00:00",
+    "consecutive_failures": 5,
     "current_snapshot_id": 21,
     "discovered_via": "seed",
     "evidence": [
@@ -21244,6 +21557,17 @@
         "source_url": "https://www.pmrf.in/",
         "old_evidence": null,
         "new_evidence": "HTTP 403"
+      },
+      {
+        "detected_at": "2026-11-14T08:31:12+00:00",
+        "run_id": 6,
+        "change_type": "SOURCE_UNREACHABLE",
+        "field": "official_source_url",
+        "old_value": "https://www.pmrf.in/",
+        "new_value": null,
+        "source_url": "https://www.pmrf.in/",
+        "old_evidence": null,
+        "new_evidence": "HTTP 403"
       }
     ]
   },
@@ -21332,8 +21656,8 @@
       }
     ],
     "first_seen": "2026-11-12T09:19:26+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 633,
@@ -21467,8 +21791,8 @@
       }
     ],
     "first_seen": "2026-11-13T09:09:25+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-13T09:09:25+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 644,
@@ -21594,8 +21918,8 @@
       }
     ],
     "first_seen": "2026-11-11T22:00:41+00:00",
-    "last_seen": "2026-11-13T09:09:24+00:00",
-    "last_verified": "2026-11-13T09:09:24+00:00",
+    "last_seen": "2026-11-14T08:31:11+00:00",
+    "last_verified": "2026-11-14T08:31:11+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 631,
@@ -21776,8 +22100,8 @@
       }
     ],
     "first_seen": "2026-11-12T09:19:26+00:00",
-    "last_seen": "2026-11-13T09:09:25+00:00",
-    "last_verified": "2026-11-13T09:09:25+00:00",
+    "last_seen": "2026-11-14T08:31:12+00:00",
+    "last_verified": "2026-11-14T08:31:12+00:00",
     "last_changed": "2026-11-12T09:19:26+00:00",
     "consecutive_failures": 0,
     "current_snapshot_id": 632,
